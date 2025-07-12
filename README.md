@@ -4,8 +4,8 @@
 
 ## 📑 Table of Content
 1. [About the Project](#-about-the-project)
-2. [Functionality](#-functionality)
-3. [Technologies](#-technologies)
+2. [Functionality](#%EF%B8%8F-functionality)
+3. [Technologies](#%EF%B8%8F-technologies)
 4. [Development](#-development)
    - [Run with Docker](#run-with-docker)
    - [Run Locally](#run-locally)
